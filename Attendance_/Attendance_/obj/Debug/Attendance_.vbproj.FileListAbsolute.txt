@@ -1,0 +1,12 @@
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.vbprojAssemblyReference.cache
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.Form1.resources
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.Resources.resources
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.vbproj.GenerateResource.cache
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\bin\Debug\Attendance_.exe.config
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\bin\Debug\Attendance_.exe
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\bin\Debug\Attendance_.pdb
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\bin\Debug\Attendance_.xml
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.exe
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.xml
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.pdb
+C:\Users\Kamar\source\repos\Attendance_\Attendance_\obj\Debug\Attendance_.Form2.resources
