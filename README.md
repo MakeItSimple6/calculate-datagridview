@@ -10,3 +10,7 @@ Step 2 :
   Open with Visual Studio
 Step 3 :
   Start the Project
+  
+# Quick Program for Getting Values from DataGridView
+  
+  Code in >>Code(Folder)-->Quickcode.txt
