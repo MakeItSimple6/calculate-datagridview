@@ -1,0 +1,13 @@
+'Show'
+Dim present_count As Integer = 0
+Dim absent_count As Integer = 0
+
+For index As Integer = 0 To DataGridView1.RowCount - 1
+    If DataGridView1.Rows(index).Cells(2).Value = "Present" Then
+            present_count += 1
+    ElseIf DataGridView1.Rows(index).Cells(2).Value = "Absent" Then
+    	    absent_count += 1
+    End If
+    Next
+    TextBox1.Text = "Total Number of Present : " & present_count & Environment.NewLine &
+                        "Total Number of Absent : " & absent_count
